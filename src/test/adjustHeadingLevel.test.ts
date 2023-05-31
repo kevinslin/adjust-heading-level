@@ -18,10 +18,9 @@ suite('adjustHeadingLevel tests', () => {
     });
 
     test('Set heading level', () => {
-        const currentLevel = 2;
         const targetLevel = 4;
         const expectedResult = 4;
-        const result = adjustHeadingLevel('set', currentLevel, targetLevel);
+        const result = adjustHeadingLevel('set', targetLevel);
         assert.strictEqual(result, expectedResult);
     });
 

@@ -1,7 +1,12 @@
 {
   "name": "adjust-heading-level",
-  "displayName": "Adjust Heading Level",
+  "displayName": "Markdown Header Adjustor",
   "description": "A VSCode extension to adjust the heading level of the selected text",
+  "publisher": "dendron",
+  "repository": {
+    "url": "https://github.com/kevinslin/adjust-heading-level.git"
+  },
+  "license": "Apache-2.0",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.62.0"

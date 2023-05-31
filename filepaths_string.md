@@ -1,0 +1,14 @@
+[
+    "tsconfig.json",
+    ".gitignore",
+    "README.md",
+    "src/test/runTest.ts",
+    "src/extension.ts",
+    "src/utils.ts",
+    "src/increaseHeading.ts",
+    "src/decreaseHeading.ts",
+    "src/setHeading.ts",
+    "package.json",
+    ".vscode/launch.json",
+    "src/test/adjustHeadingLevel.test.ts"
+]
